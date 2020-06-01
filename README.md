@@ -13,3 +13,8 @@ XR Tea Party Episodes list and information.
 - [World Locking Tools Samples Repo](https://github.com/microsoft/MixedReality-WorldLockingTools-Samples)
 
 
+## 02 Summer Wu & UnrealEngine
+
+### Links
+
+- [HoloLens Unreal Development Docs](http://bit.ly/HoloLensUnrealDev)
