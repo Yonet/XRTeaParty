@@ -19,3 +19,4 @@ XR Tea Party Episodes list and information.
 
 - [HoloLens Unreal Development Docs](http://bit.ly/HoloLensUnrealDev)
 - [Mixed Reality Toolkit for Unreal Engine Repo](https://bit.ly/UnrealMRTKRepo)
+- [Mixed Reality Unreal Samples](https://bit.ly/MixedRealityUnrealSamples)
