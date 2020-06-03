@@ -6,6 +6,8 @@ XR Tea Party Episodes list and information.
 
 ## 01 - Mark Finch & World Locking Tools
 
+### Description
+### Publish Date
 ### Links
 
 - [Documentation Portal](https://microsoft.github.io/MixedReality-WorldLockingTools-Unity/README.html)
@@ -14,11 +16,31 @@ XR Tea Party Episodes list and information.
 - [Mixed Reality Dev Days Session Videos](https://aka.ms/AA8lj77)
 
 
-## 02 Summer Wu & UnrealEngine
+## 02 - Summer Wu & UnrealEngine
 
-### Descriptions
+### Description
+
 ### Links
 
 - [HoloLens Unreal Development Docs](http://bit.ly/HoloLensUnrealDev)
 - [Mixed Reality Toolkit for Unreal Engine Repo](https://bit.ly/UnrealMRTKRepo)
 - [Mixed Reality Unreal Samples](https://bit.ly/MixedRealityUnrealSamples)
+
+## 03 - Nigel Burton & Realmax mobile AR glasses
+
+### Description
+### Publish Date
+### Links
+
+## 04 - Manish Goregaokar & Firefox Reality
+
+### Description
+### Publish Date
+### Links
+
+
+## 05 - Alex Turner & OpenXR
+
+### Description
+### Publish Date
+### Links
