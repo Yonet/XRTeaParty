@@ -20,6 +20,8 @@ XR Tea Party Episodes list and information.
 
 ### Description
 
+Summer Wu is a Program Manager in HoloLens team, currently focusing on Unreal Engine developer experience. In this episode, we will talk about what is coming for Unreal Engine designers and developers who are interested in Mixed Reality.
+
 ### Links
 
 - [HoloLens Unreal Development Docs](http://bit.ly/HoloLensUnrealDev)
