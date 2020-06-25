@@ -10,9 +10,18 @@ XR Tea Party Episodes list and information.
 
 ### Description
 
-My guest is Ada Rose Cannon, co-chair of [W3C Immersive Web Working Group](www.w3.org/immersive-web/) and Staff Engineer at [Samsung](SamsungInter.net), Galaxy.Store/Internet.
+My guest is Ada Rose Cannon, co-chair of [W3C Immersive Web Working Group](www.w3.org/immersive-web/) and Staff Engineer at [Samsung](SamsungInter.net), Galaxy.Store/Internet. We will talk about her work at W3C Immersive Web Wroking Group, her background in gaming and her grandmather's award. 
 
 ### Publish Date
+
+June 29th, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
+
+ - San Francisco (U.S.A. - California): Monday, June 29, 10:00 AM PDT
+ - Boston (U.S.A. - Massachusetts): Monday, June 29, 1:00 PM EDT
+ - London (United Kingdom - England): Monday, June 29, 6:00 PM GMT+1
+ - Paris (France): Monday, June 29, 7:00 PM GMT+2
+ - Tokyo (Japan): Tuesday, June 30, 2:00 AM GMT+9
+ - Corresponding UTC (GMT) : Monday, June 29, 5:00 PM UTC
 
 ### Links
 
