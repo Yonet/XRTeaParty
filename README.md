@@ -7,6 +7,8 @@ XR Tea Party Episodes list and information.
 ## Ada Rose Cannon & WebXR 
 
 [![XR Tea Party with Ada Rose Cannon](http://img.youtube.com/vi/nTK0_9rkHBE/0.jpg)](http://www.youtube.com/watch?v=nTK0_9rkHBE)
+[Part 1 Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Ada-Rose-Cannon--WebXR-Part-1)
+[Part 2 Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Ada-Rose-Cannon--WebXR-Part-2)
 
 ### Description
 
