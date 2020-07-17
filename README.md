@@ -67,8 +67,23 @@ Summer Wu is a Program Manager in HoloLens team, currently focusing on Unreal En
 ## Manish Goregaokar & Firefox Reality
 
 ### Description
+
+
+Manish Goregaokar is Staff Research Engineer at Mozilla, implementing WebXR APIs in Servo. Manish is also the co-author of the WebXR Device APIs as part of W3C Immersive Web Working Group.
+
 ### Publish Date
+
+July 20th, 2020
+
+10:00 AM PDT
+5:00 PM UTC
+
 ### Links
+
+aka.ms/FirefoxReality4HoloLens
+aka.ms/HoloLensWebXRSamples
+www.w3.org/immersive-web
+github.com/Manishearth
 
 ## Alex Turner & OpenXR
 
