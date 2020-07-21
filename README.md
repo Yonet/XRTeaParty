@@ -42,6 +42,9 @@ July 20th, 2020
 
 ## Summer Wu & UnrealEngine
 
+[![XR Tea Party with Summer Wu & UnrealEngine](http://img.youtube.com/vi/4wrKvYCIhHM/0.jpg)](http://www.youtube.com/watch?v=4wrKvYCIhHM)
+[Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Summer-Wu--UnrealEngine?WT.mc_id=github-xrteaparty-ayyonet)
+
 ### Description
 
 Summer Wu is a Program Manager in HoloLens team, currently focusing on Unreal Engine developer experience. In this episode, we will talk about what is coming for Unreal Engine designers and developers who are interested in Mixed Reality.
