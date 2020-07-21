@@ -43,6 +43,7 @@ July 20th, 2020
 ## Summer Wu & UnrealEngine
 
 [![XR Tea Party with Summer Wu & UnrealEngine](http://img.youtube.com/vi/4wrKvYCIhHM/0.jpg)](http://www.youtube.com/watch?v=4wrKvYCIhHM)
+
 [Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Summer-Wu--UnrealEngine?WT.mc_id=github-xrteaparty-ayyonet)
 
 ### Description
@@ -96,8 +97,6 @@ June 29th, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
 ### Links
 
 - [RealMax](https://docs.microsoft.com/windows/mixed-reality/openxr?WT.mc_id=github-xrteaparty-ayyonet)
-
-
 
 ## Alex Turner & OpenXR
 
