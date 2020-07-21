@@ -14,6 +14,10 @@ This repo has episode list, link to videos and related information. Please file 
 ## *Shortlink*: https://bit.ly/XRTeaParty
 ## Microsoft Learn TV: https://bit.ly/LearnTV
 
+- [August 3rd, 2020 Alex Turnet & OpenXR](#alex-turner--openxr)
+- [July 20th, 2020 Manish Goregaokar & Firefox Reality](#manish-goregaokar--firefox-reality)
+- [July 13th, 2020 Summer Wu & Unreal Engine](#summer-wu--unrealengine)
+- [July 06th, 2020 Ada Rose Cannon & WebXR](#ada-rose-cannon--webxr)
 
 ## Manish Goregaokar & Firefox Reality
 
@@ -29,9 +33,12 @@ Manish Goregaokar is Staff Research Engineer at Mozilla, implementing WebXR APIs
 
 July 20th, 2020
 
-10:00 AM PDT
-5:00 PM UTC
+### Links
 
+* aka.ms/FirefoxReality4HoloLens
+* aka.ms/HoloLensWebXRSamples
+* www.w3.org/immersive-web
+* github.com/Manishearth
 
 ## Summer Wu & UnrealEngine
 
@@ -60,13 +67,6 @@ My guest is Ada Rose Cannon, co-chair of [W3C Immersive Web Working Group](www.w
 
 June 29th, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
 
- - San Francisco (U.S.A. - California): Monday, June 29, 10:00 AM PDT
- - Boston (U.S.A. - Massachusetts): Monday, June 29, 1:00 PM EDT
- - London (United Kingdom - England): Monday, June 29, 6:00 PM GMT+1
- - Paris (France): Monday, June 29, 7:00 PM GMT+2
- - Tokyo (Japan): Tuesday, June 30, 2:00 AM GMT+9
- - Corresponding UTC (GMT) : Monday, June 29, 5:00 PM UTC
-
 ### Links
 
 - [@Lady_Ada_King](https://twitter.com/Lady_Ada_King) 
@@ -92,15 +92,23 @@ June 29th, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
 ### Publish Date
 ### Links
 
-### Links
+- [RealMax](https://docs.microsoft.com/windows/mixed-reality/openxr?WT.mc_id=github-xrteaparty-ayyonet)
 
-* aka.ms/FirefoxReality4HoloLens
-* aka.ms/HoloLensWebXRSamples
-* www.w3.org/immersive-web
-* github.com/Manishearth
+
 
 ## Alex Turner & OpenXR
 
 ### Description
+
+
+
 ### Publish Date
+
+August 3rd, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
+
 ### Links
+
+- [OpenXR Documentation](https://docs.microsoft.com/windows/mixed-reality/openxr?WT.mc_id=github-xrteaparty-ayyonet)
+- [OpenXR Repo](https://github.com/microsoft/OpenXR-MixedReality?WT.mc_id=github-xrteaparty-ayyonet)
+
+
