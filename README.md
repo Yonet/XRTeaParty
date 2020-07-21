@@ -104,7 +104,6 @@ June 29th, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
 ### Description
 
 
-
 ### Publish Date
 
 August 3rd, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
@@ -114,4 +113,19 @@ August 3rd, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
 - [OpenXR Documentation](https://docs.microsoft.com/windows/mixed-reality/openxr?WT.mc_id=github-xrteaparty-ayyonet)
 - [OpenXR Repo](https://github.com/microsoft/OpenXR-MixedReality?WT.mc_id=github-xrteaparty-ayyonet)
 
+## Brendan Bradley & Future Stages
 
+### Description
+
+Brendan Bradley has designed a virtual performance experience that is optimized and customizable for Mozilla Hubs and can be accessed using the same URL by almost any device: VR headset, personal computer or mobile device. 
+
+[![How To Put Your Audience in a Virtual Theatre](http://img.youtube.com/vi/ROm5wX41B2A/0.jpg)](https://www.youtube.com/watch?time_continue=542&v=ROm5wX41B2A)
+
+### Publish Date
+
+### Links
+
+- [Website](https://www.brendanabradley.com/futurestages)
+- [Youtube](https://www.youtube.com/channel/UCJHKXsngBP5aKmTsAdkMPTQ)
+- [Virtual Walkthrough](https://hubs.mozilla.com/weiAQnM/future-stages-tour)
+- [Instagram](https://www.instagram.com/brendanabradley/)
