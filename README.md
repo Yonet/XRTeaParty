@@ -51,7 +51,7 @@ Summer Wu is a Program Manager in HoloLens team, currently focusing on Unreal En
 - [HoloLens Unreal Development Docs](http://bit.ly/HoloLensUnrealDev)
 - [Mixed Reality Toolkit for Unreal Engine Repo](https://bit.ly/UnrealMRTKRepo)
 - [Mixed Reality Unreal Samples](https://bit.ly/MixedRealityUnrealSamples)
-- [Mixed Reality Dev Days Talk: Untroduction to Unity And Mixed Reality Toolkit](https://channel9.msdn.com/Shows/Docs-Mixed-Reality/Intro-to-Unreal--MRTK-for-HoloLens-2?WT.mc_id=github-xrteaparty-ayyonet)
+- [Mixed Reality Dev Days Talk: Untroduction to Unreal And Mixed Reality Toolkit](https://channel9.msdn.com/Shows/Docs-Mixed-Reality/Intro-to-Unreal--MRTK-for-HoloLens-2?WT.mc_id=github-xrteaparty-ayyonet)
 
 ## Ada Rose Cannon & WebXR 
 
