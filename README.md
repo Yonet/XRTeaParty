@@ -13,6 +13,7 @@ This repo has episode list, link to videos and related information. Please file 
 
 ## *Shortlink*: https://bit.ly/XRTeaParty
 ## Microsoft Learn TV: https://bit.ly/LearnTV
+## Youtube Playlist: https://bit.ly/XRTeaPartyPlaylist
 
 - [August 3rd, 2020 Alex Turnet & OpenXR](#alex-turner--openxr)
 - [July 20th, 2020 Manish Goregaokar & Firefox Reality](#manish-goregaokar--firefox-reality)
