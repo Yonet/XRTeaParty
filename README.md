@@ -20,6 +20,27 @@ This repo has episode list, link to videos and related information. Please file 
 - [July 13th, 2020 Summer Wu & Unreal Engine](#summer-wu--unrealengine)
 - [July 06th, 2020 Ada Rose Cannon & WebXR](#ada-rose-cannon--webxr)
 
+## Mariza Dima & Sutton House Stories
+
+### Description
+
+Join us at XR Tea Party with Mariza Dima. Mariza is Game Design lecturer at Brunel University London. We will talk about Sutton House Stories, a HoloLens museum experience and her journey in XR.
+
+### Publish Date
+
+September 2nd, 2020.At https://PMbit.ly/LearnTV:
+
+ - UTC 6:30 PM
+ - PST 11:30 AM
+ - EST 2:30
+
+### Links
+
+- [Website](https://www.brendanabradley.com/futurestages)
+- [Sutton House Stories](https://www.marizadima.space/sutton-house-stories)
+- [LinkedIn](https://www.linkedin.com/in/marizadima/)
+
+
 ## Manish Goregaokar & Firefox Reality
 
 [![XR Tea Party with Manish Goregaokar Part 1](http://img.youtube.com/vi/CDIPBFPsqYQ/0.jpg)](http://www.youtube.com/watch?v=CDIPBFPsqYQ)
