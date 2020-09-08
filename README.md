@@ -15,10 +15,33 @@ This repo has episode list, link to videos and related information. Please file 
 ## Microsoft Learn TV: https://bit.ly/LearnTV
 ## Youtube Playlist: https://bit.ly/XRTeaPartyPlaylist
 
+- [November 18th, 2020 Jason Carter and Raanan Weber & BabylonJS Release]()
+- [September 2nd, 2020 Mariza Dima & Sutton House Stories](#mariza-dima--sutton-house-stories)
 - [August 3rd, 2020 Alex Turnet & OpenXR](#alex-turner--openxr)
 - [July 20th, 2020 Manish Goregaokar & Firefox Reality](#manish-goregaokar--firefox-reality)
 - [July 13th, 2020 Summer Wu & Unreal Engine](#summer-wu--unrealengine)
 - [July 06th, 2020 Ada Rose Cannon & WebXR](#ada-rose-cannon--webxr)
+
+## Jason Carter and Raanan Weber & BabylonJS Release
+
+### Description
+
+Join us at XR Tea Party with Jason Carter and Raanan Weber from the BabylonJS core team. We will learn about the new features of BabylonJS and what is coming next.
+
+### Publish Date
+
+November 18th, 2020.At https://PMbit.ly/LearnTV:
+
+ - UTC 10:30 PM
+ - PST 03:30 PM
+ - EST 6:30 PM
+
+### Links
+
+- [BabylonJS](https://www.babylonjs.com/)
+- [Babylon Forum](https://forum.babylonjs.com/)
+- [Github](https://github.com/BabylonJS/Babylon.js)
+- [Mixed Reality JavaScript Documentation](https://bit.ly/MixedRealityJavaScript)
 
 ## Mariza Dima & Sutton House Stories
 
@@ -30,9 +53,9 @@ Join us at XR Tea Party with Mariza Dima. Mariza is Game Design lecturer at Brun
 
 September 2nd, 2020.At https://PMbit.ly/LearnTV:
 
- - UTC 6:30 PM
- - PST 11:30 AM
- - EST 2:30
+ - UTC 7:30 PM
+ - PST 12:30 PM
+ - EST 3:30 PM
 
 ### Links
 
