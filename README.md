@@ -15,7 +15,7 @@ This repo has episode list, link to videos and related information. Please file 
 ## Microsoft Learn TV: https://bit.ly/LearnTV
 ## Youtube Playlist: https://bit.ly/XRTeaPartyPlaylist
 
-- [November 18th, 2020 Jason Carter and Raanan Weber & BabylonJS Release](#jason-carter-and-raanan-weber--babylonjs-4.2-release)
+- [November 18th, 2020 Jason Carter and Raanan Weber & BabylonJS Release](#jason-carter-and-raanan-weber--babylonjs-42-release)
 - [September 2nd, 2020 Mariza Dima & Sutton House Stories](#mariza-dima--sutton-house-stories)
 - [August 3rd, 2020 Alex Turnet & OpenXR](#alex-turner--openxr)
 - [July 20th, 2020 Manish Goregaokar & Firefox Reality](#manish-goregaokar--firefox-reality)
