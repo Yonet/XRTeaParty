@@ -15,16 +15,18 @@ This repo has episode list, link to videos and related information. Please file 
 ## Microsoft Learn TV: https://bit.ly/LearnTV
 ## Youtube Playlist: https://bit.ly/XRTeaPartyPlaylist
 
-- [November 18th, 2020 Jason Carter and Raanan Weber & BabylonJS Release]()
+- [November 18th, 2020 Jason Carter and Raanan Weber & BabylonJS Release](#jason-carter-and-raanan-weber--babylonjs-4.2-release)
 - [September 2nd, 2020 Mariza Dima & Sutton House Stories](#mariza-dima--sutton-house-stories)
 - [August 3rd, 2020 Alex Turnet & OpenXR](#alex-turner--openxr)
 - [July 20th, 2020 Manish Goregaokar & Firefox Reality](#manish-goregaokar--firefox-reality)
 - [July 13th, 2020 Summer Wu & Unreal Engine](#summer-wu--unrealengine)
 - [July 06th, 2020 Ada Rose Cannon & WebXR](#ada-rose-cannon--webxr)
 
-## Jason Carter and Raanan Weber & BabylonJS Release
+## Jason Carter and Raanan Weber & BabylonJS 4.2 Release
 
 ### Description
+
+[![XR Tea Party with Jason Carter and Raanan Weber & BabylonJS](http://img.youtube.com/vi/Lg4B_H-t8fY/0.jpg)](http://www.youtube.com/watch?v=Lg4B_H-t8fY)
 
 Join us at XR Tea Party with Jason Carter and Raanan Weber from the BabylonJS core team. We will learn about the new features of BabylonJS and what is coming next.
 
