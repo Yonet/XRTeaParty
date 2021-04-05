@@ -69,8 +69,8 @@ January 14th, 2020.At [aka.ms/MixedRealityEvents](https://docs.microsoft.com/en-
 ## Manish Goregaokar & Firefox Reality
 
 [![XR Tea Party with Manish Goregaokar Part 1](http://img.youtube.com/vi/CDIPBFPsqYQ/0.jpg)](http://www.youtube.com/watch?v=CDIPBFPsqYQ)
-- [XR Tea Party with Manish Goregaokar Part 1](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Manish-Goregaokar-from-Firefox-Reality-Part-1?WT.mc_id=github-xrteaparty-ayyonet)
-- [XR Tea Party with Manish Goregaokar Part 2](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Manish-Goregaokar-from-Firefox-Reality-Part-2?WT.mc_id=github-xrteaparty-ayyonet)
+- [XR Tea Party with Manish Goregaokar Part 1](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Manish-Goregaokar-from-Firefox-Reality-Part-1?WT.mc_id=aiml-0000-ayyonet)
+- [XR Tea Party with Manish Goregaokar Part 2](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Manish-Goregaokar-from-Firefox-Reality-Part-2?WT.mc_id=aiml-0000-ayyonet)
 
 ### Description
 
@@ -91,7 +91,7 @@ July 20th, 2020
 
 [![XR Tea Party with Summer Wu & UnrealEngine](http://img.youtube.com/vi/4wrKvYCIhHM/0.jpg)](http://www.youtube.com/watch?v=4wrKvYCIhHM)
 
-[Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Summer-Wu--UnrealEngine?WT.mc_id=github-xrteaparty-ayyonet)
+[Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Summer-Wu--UnrealEngine?WT.mc_id=aiml-0000-ayyonet)
 
 ### Description
 
@@ -102,13 +102,13 @@ Summer Wu is a Program Manager in HoloLens team, currently focusing on Unreal En
 - [HoloLens Unreal Development Docs](http://bit.ly/HoloLensUnrealDev)
 - [Mixed Reality Toolkit for Unreal Engine Repo](https://bit.ly/UnrealMRTKRepo)
 - [Mixed Reality Unreal Samples](https://bit.ly/MixedRealityUnrealSamples)
-- [Mixed Reality Dev Days Talk: Untroduction to Unreal And Mixed Reality Toolkit](https://channel9.msdn.com/Shows/Docs-Mixed-Reality/Intro-to-Unreal--MRTK-for-HoloLens-2?WT.mc_id=github-xrteaparty-ayyonet)
+- [Mixed Reality Dev Days Talk: Untroduction to Unreal And Mixed Reality Toolkit](https://channel9.msdn.com/Shows/Docs-Mixed-Reality/Intro-to-Unreal--MRTK-for-HoloLens-2?WT.mc_id=aiml-0000-ayyonet)
 
 ## Ada Rose Cannon & WebXR 
 
 [![XR Tea Party with Ada Rose Cannon](http://img.youtube.com/vi/nTK0_9rkHBE/0.jpg)](http://www.youtube.com/watch?v=nTK0_9rkHBE)
-- [Part 1 Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Ada-Rose-Cannon--WebXR-Part-1)
-- [Part 2 Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Ada-Rose-Cannon--WebXR-Part-2)
+- [Part 1 Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Ada-Rose-Cannon--WebXR-Part-1?WT.mc_id=aiml-0000-ayyonet)
+- [Part 2 Channel 9](https://channel9.msdn.com/Shows/LearnTV/XR-Tea-Party-Ada-Rose-Cannon--WebXR-Part-2?WT.mc_id=aiml-0000-ayyonet)
 
 ### Description
 
@@ -143,7 +143,7 @@ June 29th, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
 ### Publish Date
 ### Links
 
-- [RealMax](https://docs.microsoft.com/windows/mixed-reality/openxr?WT.mc_id=github-xrteaparty-ayyonet)
+- [RealMax](https://docs.microsoft.com/windows/mixed-reality/openxr?WT.mc_id=aiml-0000-ayyonet)
 
 ## Alex Turner & OpenXR
 
@@ -156,7 +156,7 @@ August 3rd, 2020 on [Microsoft Learn TV](https://bit.ly/LearnTV)
 
 ### Links
 
-- [OpenXR Documentation](https://docs.microsoft.com/windows/mixed-reality/openxr?WT.mc_id=github-xrteaparty-ayyonet)
+- [OpenXR Documentation](https://docs.microsoft.com/windows/mixed-reality/openxr?WT.mc_id=aiml-0000-ayyonet)
 - [OpenXR Repo](https://github.com/microsoft/OpenXR-MixedReality?WT.mc_id=github-xrteaparty-ayyonet)
 
 ## Brendan Bradley & Future Stages
